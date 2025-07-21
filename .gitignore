@@ -1,0 +1,54 @@
+# Build results
+bin/
+obj/
+out/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rider and VS Code
+.idea/
+.vscode/
+
+# dotnet tools
+*.pdb
+*.cache
+
+# Docker-related
+*.tar
+*.bak
+*.sql
+
+# Optional: Ignore generated certs/secrets
+*.pfx
+secrets.json
+
+# Dependency cache
+.nuget/
+packages/
+
+# Project lock files
+project.lock.json
+project.fragment.lock.json
+
+# Vercel
+.vercel/
+.env
+.env.* 
+
+# Node (if used in frontend)
+node_modules/
