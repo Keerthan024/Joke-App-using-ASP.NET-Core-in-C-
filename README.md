@@ -1,7 +1,5 @@
 # Joke App using ASP.NET Core in C#
 
-# 😂 Joke App
-
 A full-stack **web database application** built using **ASP.NET Core (C#)** and the **MVC (Model-View-Controller)** design pattern. This project lets users view, create, update, delete, and search jokes stored in a SQL database using Entity Framework Core.
 
 ---
@@ -31,8 +29,7 @@ A full-stack **web database application** built using **ASP.NET Core (C#)** and 
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots of your app: Home page, Create form, Search results, etc.)*
-
+> *<img width="1920" height="990" alt="{E08EE6F4-9B19-4FC3-B680-87F4538CE0AE}" src="https://github.com/user-attachments/assets/7acd97a8-c9fc-42d8-aff8-315db5e60927" />*
 ---
 
 ## 🚀 How to Run Locally
