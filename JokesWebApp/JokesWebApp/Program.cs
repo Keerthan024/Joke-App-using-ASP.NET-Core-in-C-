@@ -1,4 +1,4 @@
-using JokesWebApp.Data;
+﻿using JokesWebApp.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
