@@ -37,7 +37,6 @@ A full-stack **web database application** built using **ASP.NET Core (C#)** and 
 ### Prerequisites
 
 - [.NET SDK 8+](https://dotnet.microsoft.com/en-us/download)
-- [SQL Server LocalDB / Railway Cloud DB](https://railway.app)
 - [Visual Studio 2022+](https://visualstudio.microsoft.com/)
 
 ---
@@ -45,5 +44,5 @@ A full-stack **web database application** built using **ASP.NET Core (C#)** and 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/JokeApp.git
+git clone [https://github.com/Keerthan024/JokeApp.git]
 cd JokeApp
