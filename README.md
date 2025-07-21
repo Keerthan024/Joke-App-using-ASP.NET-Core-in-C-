@@ -29,7 +29,8 @@ A full-stack **web database application** built using **ASP.NET Core (C#)** and 
 
 ## 🖼️ Screenshots
 
-> *<img width="1920" height="990" alt="{E08EE6F4-9B19-4FC3-B680-87F4538CE0AE}" src="https://github.com/user-attachments/assets/7acd97a8-c9fc-42d8-aff8-315db5e60927" />*
+> *<img width="3162" height="400" alt="joke_app_collage" src="https://github.com/user-attachments/assets/66f5343d-dcb8-4a04-9d20-3680a26bc302" />
+*
 ---
 
 ## 🚀 How to Run Locally
