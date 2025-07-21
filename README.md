@@ -9,7 +9,7 @@ A full-stack **web database application** built using **ASP.NET Core (C#)** and 
 - **ASP.NET Core 8**
 - **C#**
 - **Entity Framework Core**
-- **SQL Server (Local or Cloud via Railway/Azure)**
+- **SQL Server (Local)**
 - **Razor Pages**
 - **Bootstrap 5**
 - **CSS**
